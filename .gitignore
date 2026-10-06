@@ -1,0 +1,23 @@
+# Environment variables / Credentials
+.env
+*.env
+backend/.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# Node / React
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+
+# IDE / OS
+.DS_Store
+.vscode/
+.idea/
